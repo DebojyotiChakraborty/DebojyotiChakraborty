@@ -1,7 +1,7 @@
 # Hi 👋🏻! I am Debojyoti! Welcome to my Github Profile!
 
 # 💫 About Me:
-20 ✦ tech enthusiast ✦ flutter ✦ firebase ✦ nextjs ✦ figma ✦ building radpapers.in <br> ✦ i code, i lift and i bring ideas to life.
+20 ✦ tech and ai-applications connoisseur ✦ flutter ✦ firebase ✦ nextjs ✦ figma ✦ building radpapers.in <br> ✦ i code, i lift and i bring ideas to life.
 
 
 ## 🌐 Socials:
